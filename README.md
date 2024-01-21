@@ -1,17 +1,14 @@
 
 #    Hi there! 👋
       
- 
-I'm Shubham, a passionate Computer Engineering student currently in my 3rd year.</br>
-I specialize in Node.js and have been diving deep into the world of React.
 
-<h2>What I'm up to:</h2></br>
+👾 I'm Shubham, a passionate Computer Engineering student currently in my 3rd year.</br>
+👨‍💻I specialize in Node.js and am currently learning React.<br>
 🚀 Currently honing my skills in full-stack development.</br>
-👨‍💻 Working on exciting React projects to bring ideas to life.</br>
-🤖 Exploring data structures and algorithms to strengthen my problem-solving skills.
+🤖 Exploring data structures and algorithms to strengthen my problem-solving skills.</br>
+💡 And I Write blogs.
 
-
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhamnikam224/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nikamshubham224) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shub_242) 
 
 # 💻 Tech Stack:
