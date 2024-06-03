@@ -2,7 +2,7 @@
 
       
 
-👾 I'm Shubham, a passionate Computer Engineering student currently in my 3rd year.</br>
+👾 I'm Shubham, a passionate Computer Engineering student currently in my final year .</br>
 👨‍💻I specialize in Node.js and am currently learning React.<br>
 🚀 Currently honing my skills in full-stack development.</br>
 🤖  Leetcode 1500 </br>
